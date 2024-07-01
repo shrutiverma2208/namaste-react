@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "this is namaste react by shruti verma",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"paecel build index.html",
     "test": "jest"
   },
   "repository": {
